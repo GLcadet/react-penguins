@@ -1,2 +1,4 @@
-# react-penguins
-a reacte-cli is based on create-react-app 
+This project is based on [Create React App](https://github.com/facebookincubator/create-react-app).
+
+The main purpose is for its own convenience.
+
